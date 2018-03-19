@@ -1,0 +1,12 @@
+name: transition_surface_vis
+title:
+username:
+account: jwmortensen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224366
+bundleId: 1026080
+url: https://jwmortensen.shinyapps.io/transition_surface_vis/
+when: 1507940014.55983
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,10 @@
+name: variogram_cloud
+title:
+username:
+account: jwmortensen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 241764
+bundleId: 1104543
+url: https://jwmortensen.shinyapps.io/variogram_cloud/
+when: 1511976399.35674
